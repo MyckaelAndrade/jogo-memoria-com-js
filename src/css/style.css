@@ -1,0 +1,30 @@
+@import url(./reset.css);
+@import url('https://fonts.googleapis.com/css2?family=Kumar+One&display=swap');
+
+body {
+    background-color: #000;
+    font-family: 'Kumar One', serif;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+#container {
+    width: 90%;
+    min-height: 90vh;
+    background-color: #fff;
+    box-shadow: 3px 3px #ff0000;
+    border-radius: 20px;
+}
+
+h1{
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: 900;
+    text-shadow: 1px 2px #ff0000;
+}
