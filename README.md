@@ -25,7 +25,7 @@
 ## Capturas de Tela
 
 ### Gameplay
-![Gameplay]()
+![Gameplay](./assets/gameplay.png)
 
 ## Contribuição
 
