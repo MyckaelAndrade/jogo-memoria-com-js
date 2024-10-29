@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Tiny5&display=swap');
+
 * {
     margin: 0;
     padding: 0;
     outline: 0;
     box-sizing: border-box;
+    font-family: "Tiny5", sans-serif;
 }
